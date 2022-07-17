@@ -1,0 +1,21 @@
+.box{}
+
+.box h2{
+    text-align: center;
+}
+
+.single-box{
+    width: 28%;
+    text-align: center;
+    background-color: #ccc;
+    float: left;
+    margin-right: 25px;
+    padding: 20px;
+}
+
+.single-box img{
+    width: 220px;
+    height: 220px;
+    border-radius: 50%;
+
+}
